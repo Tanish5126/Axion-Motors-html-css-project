@@ -8,7 +8,7 @@ A stunning, fully responsive automobile brand website showcasing McLaren superca
 
 ## 🚗 Live Demo
 
-[View Live Demo](https://axion-motors.vercel.app/) 
+[View Live Demo](axion-motors-html-css-project-git-main-tanish-gawades-projects.vercel.app) 
 
 ---
 
@@ -309,11 +309,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Sasanka** - [@sasankawrites](https://www.linkedin.com/in/sasankawrites/)
+- LinkedIn : https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
-- 🌐 Portfolio: [sasankawrites.in](https://sasankawrites.in/)
-- 📸 Instagram: [@sashank.codes_](https://www.instagram.com/sashank.codes_)
-- 💻 GitHub: [@Sasanka14](https://github.com/Sasanka14)
+- 💻 GitHub: https://github.com/Tanish5126
 
 ### AXION Motors (Fictional)
 - 📍 Unit no. 2, Aman Chamber, Swatantryaveer Savarkar Rd, Opp. New Passport Office, Century Bazaar, Prabhadevi, Mumbai, Maharashtra 400025
