@@ -330,7 +330,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://sasankawrites.in/">Tanish Gawade</a>
+  Made by Tanish Gawade
 </p>
 
 <p align="center">
